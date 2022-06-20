@@ -1,0 +1,2 @@
+# Amplifier_nonlinear_distortion
+FPGA Cyclone II EP2C5T144C8 与 MSP430f6638实现Amplifier_nonlinear_distortion(放大器非线性失真研究装置)
