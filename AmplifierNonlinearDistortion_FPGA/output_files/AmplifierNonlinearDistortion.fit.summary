@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Jun 20 10:56:49 2022
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : AmplifierNonlinearDistortion
+Top-level Entity Name : AmplifierNonlinearDistortion
+Family : Cyclone II
+Device : EP2C5T144C8
+Timing Models : Final
+Total logic elements : 4,458 / 4,608 ( 97 % )
+    Total combinational functions : 4,092 / 4,608 ( 89 % )
+    Dedicated logic registers : 3,633 / 4,608 ( 79 % )
+Total registers : 3633
+Total pins : 58 / 89 ( 65 % )
+Total virtual pins : 0
+Total memory bits : 7,488 / 119,808 ( 6 % )
+Embedded Multiplier 9-bit elements : 26 / 26 ( 100 % )
+Total PLLs : 1 / 2 ( 50 % )
